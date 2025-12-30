@@ -12,4 +12,5 @@ dependencies = [
     "langchain-pinecone>=0.2.13",
     "langchain-tavily>=0.2.15",
     "python-dotenv>=1.2.1",
+    "streamlit>=1.52.2",
 ]
